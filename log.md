@@ -5,6 +5,6 @@
 
 **Today's Progress**: Digging deeper into The Odin Project fundamentals in JavaScript.
 
-**Thoughts:** 
+**Thoughts**: A lot of things that I struggled with are starting to make sense, reminder that it's not a race but a journey. 
 
 **Link to work:** [N/A](http://www..com)
