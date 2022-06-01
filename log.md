@@ -27,3 +27,12 @@ a few junior level interviews.
 **Thoughts**: Getting anxious/nervous about the interviews today so finding myself getting sidetracked. I think I will do fine as long as I give off my positive energy.
 
 **Link to work:** [GitHub](https://github.com/dalenmfitzgerald)
+
+
+### Day 4: June 1, 2022 (N/A)
+##### searching ideas for technical interview tomorrow
+
+**Today's Progress**: Started Web Based "Text Adventures"
+
+**Thoughts**: Will be continuing to work on and stylize the text adventure to practice front end skills and JavaScript.
+**Link to work:** [GitHub](https://dalenmfitzgerald.github.io/Text-Adventures/)
