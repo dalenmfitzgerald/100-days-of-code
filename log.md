@@ -32,7 +32,7 @@ a few junior level interviews.
 ### Day 4: June 1, 2022 (N/A)
 ##### searching ideas for technical interview tomorrow
 
-**Today's Progress**: Started Web Based "Text Adventures"
+**Today's Progress**: Started Web Based "Text Adventures" || FizzBuzz
 
 **Thoughts**: Will be continuing to work on and stylize the text adventure to practice front end skills and JavaScript.
 **Link to work:** [GitHub](https://dalenmfitzgerald.github.io/Text-Adventures/)
