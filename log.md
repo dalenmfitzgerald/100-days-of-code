@@ -36,3 +36,30 @@ a few junior level interviews.
 
 **Thoughts**: Will be continuing to work on and stylize the text adventure to practice front end skills and JavaScript.
 **Link to work:** [GitHub](https://dalenmfitzgerald.github.io/Text-Adventures/)
+
+
+### Day 5: June 2, 2022 (N/A)
+##### wallowing in despair
+
+**Today's Progress**: Failed techincal interview
+
+**Thoughts**: Felt bad about failing the tech, but it wasn't because I did not know the material...I just answered in the wrong order.
+**Link to work:** [GitHub](https://dalenmfitzgerald.github.io/Text-Adventures/)
+
+
+### Day 6: June 4, 2022 (N/A)
+##### started csharp to practice before job training
+
+**Today's Progress**: Decided to build a game with c# in unity to keep myself engaged with the material.
+
+**Thoughts**: I believe I can do this
+**Link to work:** 
+
+
+### Day 7: June 5, 2022 (N/A)
+##### chipping away at csharp still, trying to learn the philosphy and syntax
+
+**Today's Progress**: Still working on the Unity game using a tutorial that focuses on C#
+
+**Thoughts**: I know I can do this.
+**Link to work:** 
